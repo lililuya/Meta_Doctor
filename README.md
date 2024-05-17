@@ -10,7 +10,9 @@
 ### 2.2 Some approaches for error encountered.
 + The first one
   + When in `torch=2.2 or 2.1` appeared `error: (*bias): last dimension must be contiguous`
-  + Solving by `pip uninstall torch torchvision & pip install torch==2.0 torchvision`
+  + Solving by
+    ```python
+    pip uninstall torch torchvision & pip install torch==2.0 torchvision```
 + The second one
   + The version of `SwissArmyTransformer` and `Transformers` version should match
   + I use `SwissArmyTransformer=0.4.0` and `Transformers=4.22.3`
