@@ -1,7 +1,7 @@
 # 🏥 Meta_Doctor ✔️ 
-> Learning deploy Large Medical Model 
-## 1. Take XrayGLM as a example for learning.
-
+> Learning deploy Large Medical Model, taking XrayGLM as a example for learning.
+## 1. What Should I choose?
++ some vision model
 ## 2. Record the install process.
 ### 2.1 Environment
 + Follow the requirements.txt and environment.yaml
