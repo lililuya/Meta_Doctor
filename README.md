@@ -11,7 +11,7 @@
 + The first one
   + When in `torch=2.2 or 2.1` appeared `error: (*bias): last dimension must be contiguous`
   + Solving by
-    ```sh
+    ```bash
     pip uninstall torch torchvision & pip install torch==2.0 torchvision
     ```
 + The second one
@@ -27,7 +27,7 @@
 3. Move the file to this location: /home/ps/miniconda3/envs/XrayGLM/lib/python3.9/site-packages/gradio
 ```
 + Use following script
-```sh
+```bash
 wget https://cdn-media.huggingface.co/frpc-gradio-0.2/frpc_linux_amd64
 mv frpc_linux_amd64 frpc_linux_amd64_v0.2
 mv frpc_linux_amd64_v0.2  /home/ps/miniconda3/envs/XrayGLM/lib/python3.9/site-packages/gradio
