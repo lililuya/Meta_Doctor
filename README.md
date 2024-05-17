@@ -4,7 +4,9 @@
 
 ## 2. Record the install process.
 ### 2.1 Environment
-
++ Follow the requirements.txt and environment.yaml
++ Take Special Notice!
+  +  Use python 3.9 is suitable, I encountered a lot of problem in python 3.11、3.10
 ### 2.2 Some approaches for error encountered.
 
 ## 3. Last demo(merely modify the style)
