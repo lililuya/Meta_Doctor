@@ -1,4 +1,4 @@
-# Meta_Doctor
+# 🏥Meta_Doctor✔️ 
 > Learning deploy Large Medical Model 
 ## 1.Take XrayGLM as a example for learning.
 
